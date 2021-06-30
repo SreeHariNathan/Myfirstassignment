@@ -1,0 +1,85 @@
+.header{
+    color: green;
+    margin-left: 350px;
+}
+.header h2{
+    color: blue;
+    margin-left: 90px;
+}
+.image h1{
+    margin-left: 60px;
+    color: gold;
+}
+.image img{
+    margin-left: 50px;
+}
+.image1 h1{
+    margin-left: 330px;
+    margin-top: -340px;
+    color: gold;
+}
+.image1 img{
+    margin-left: 300px;
+}
+.image2 h1{
+    margin-left: 650px;
+    margin-top: -240px;
+    color: gold;
+}
+.image2 img{
+    margin-left: 650px;
+    margin-top: -10px;
+}
+.image3 h1{
+    margin-left:180px;
+    color: gold;
+}
+.image3 img{
+    margin-left: 180px;
+}
+.image4 h1{
+    margin-top: -330px;
+    margin-left:630px;
+    color: gold;
+}
+.image4 img{
+    margin-top: -10px;
+    margin-left:550px;
+    }
+.audio{
+    margin-left: 350px;
+    margin-top: 250px;
+}
+.audio h1{
+    color: blue;
+    margin-left: 85px;
+}
+.audio1{
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.audio1 h1{
+    color: blue;
+    margin-left: 85px;
+}
+.video h1{
+    margin-left: 295px;
+    color: crimson;
+}
+.video{
+    margin-left: 150px;
+}
+.video1 h1{
+    margin-left: 295px;
+    color: crimson;
+}
+.video1{
+    margin-left: 150px;
+}
+.video2 h1{
+    margin-left: 295px;
+    color: crimson;
+}
+.video2{
+    margin-left: 150px;
+}
